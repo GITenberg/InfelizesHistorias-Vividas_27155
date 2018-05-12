@@ -1,0 +1,37 @@
+_repo: InfelizesHistorias-Vividas_27155
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Osório, Ana de Castro
+    aliases:
+    - Castro Osório, Ana de
+    - Osório, Anna de Castro
+    - De Castro Osório, Ana
+    - Osorio, Ana de Castro
+    birthdate: 1872
+    deathdate: 1935
+    gutenberg_agent_id: '32497'
+    url: http://www.gutenberg.org/2009/agents/32497
+    wikipedia: http://pt.wikipedia.org/wiki/Ana_de_Castro_Os%C3%B3rio
+description: ''
+gutenberg_bookshelf: PT Contos
+gutenberg_issued: '2008-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27155'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portuguese fiction -- 19th century'
+- !lcsh 'Short stories, Portuguese'
+- !lcc 'PQ'
+tableOfContents: Dezoito annos -- Tio Barreiros -- Solteirão -- Hamlet -- A senhora
+  Angelica -- Algarve -- Cúmulo -- A ama -- Entardecer -- Bretan -- Victoria -- A
+  terra -- Freiras -- Sombras.
+title: 'Infelizes: Historias Vividas'
+url: http://www.gutenberg.org/ebooks/27155
